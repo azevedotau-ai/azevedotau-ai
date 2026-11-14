@@ -1,12 +1,18 @@
 <div align="center">
 
-  <!-- Banner Superior (Paleta Dracula) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:44475A,100:BD93F9&height=210&section=header&text=Azevedo%20Tau&fontSize=52&fontColor=F8F8F2&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Quant%20Finance%20%26%20C%2B%2B%20%E2%80%A2%20Linux%20%26%20Full-Stack%20Systems&descAlignY=58&descSize=15" alt="Azevedo Tau Banner" />
+  <!-- Cabeçalho Principal (100% estável em CDN) -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=780&height=55&lines=Hi+there%2C+I'm+Azevedo+Tau+%F0%9F%91%8B;Artificial+Intelligence+%26+ML+Engineer;Quant+Finance+%26+Low-Latency+C%2B%2B+Dev;Linux+%26+Full-Stack+Systems+Architect" alt="Azevedo Tau" />
+    </a>
+  </h1>
 
-  <!-- Tipografia Dinâmica -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Quantitative+Finance+%26+Low-Latency+C%2B%2B+Developer;Linux+Systems+Engineer+%26+Infrastructure+Architect;End-to-End+Full-Stack+Software+Engineer" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI_Engineer-282A36?style=flat-square&logo=pytorch&logoColor=FF79C6" alt="AI Engineer" />
+    <img src="https://img.shields.io/badge/Quant_Finance_%26_C++-282A36?style=flat-square&logo=cplusplus&logoColor=8BE9FD" alt="Quant Finance" />
+    <img src="https://img.shields.io/badge/Linux_Systems_Engineer-282A36?style=flat-square&logo=linux&logoColor=50FA7B" alt="Linux Engineer" />
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-282A36?style=flat-square&logo=typescript&logoColor=BD93F9" alt="Full-Stack Developer" />
+  </p>
 
   <p align="center">
     Designing low-latency quantitative systems, production AI architectures, hardened Linux environments, and scalable full-stack platforms.
@@ -128,12 +134,9 @@
 ### 📊 GitHub Telemetry & Metrics
 
 <div align="center">
-  <a href="https://github.com/azevedotau-ai">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=azevedotau-ai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedotau-ai&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=azevedotau-ai&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azevedotau-ai&bg_color=282A36&color=F8F8F2&line=BD93F9&point=50FA7B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
