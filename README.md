@@ -136,13 +136,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=azevedotau-ai&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azevedotau-ai&bg_color=282A36&color=F8F8F2&line=BD93F9&point=50FA7B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/azevedotau-ai/azevedotau-ai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
